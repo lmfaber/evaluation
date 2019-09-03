@@ -1,0 +1,8 @@
+name: hisat2
+channels:
+ - bioconda
+dependencies:
+ - hisat2=2.1.0
+ - python=3
+ - pandas=0.24.2
+

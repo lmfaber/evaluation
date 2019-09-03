@@ -1,0 +1,6 @@
+name: rnaquast
+channels:
+ - bioconda
+dependencies:
+ - python=2.7
+ - rnaquast=1.5.1
